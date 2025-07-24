@@ -2,7 +2,7 @@ AI Puzzle Solvers
 
 Project Overview
 
-This project, developed by Enugula Venu (ID: B211076, Class: E3 CSE C2), implements solutions to two classic AI search problems: the Bridge-Crossing Puzzle and the Rabbit Puzzle. Both puzzles are solved using the Breadth-First Search (BFS) algorithm  and DFS(ddepth First Search) to find the  path to the goal state. The implementation is provided in a Jupyter notebook (ai.ipynb) using Python.
+This project, developed by Enugula Venu (ID: B211076, Class: E3 CSE C2), implements solutions to two classic AI search problems: the Bridge-Crossing Puzzle and the Rabbit Puzzle. Both puzzles are solved using the Breadth-First Search (BFS) algorithm  and DFS(Depth First Search) to find the  path to the goal state. The implementation is provided in a Jupyter notebook (ai.ipynb) using Python.
 
 Bridge-Crossing Puzzle
 
